@@ -1,4 +1,3 @@
-
 defmodule Portal do
   use Application
 
